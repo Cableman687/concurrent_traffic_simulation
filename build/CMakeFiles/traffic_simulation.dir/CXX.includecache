@@ -42,22 +42,6 @@ TrafficLight.h
 TrafficObject.h
 /home/workspace/Concurrent-Traffic-Simulation/src/TrafficObject.h
 
-/home/workspace/Concurrent-Traffic-Simulation/src/TrafficLight.cpp
-iostream
--
-random
--
-TrafficLight.h
-/home/workspace/Concurrent-Traffic-Simulation/src/TrafficLight.h
-thread
--
-chrono
--
-mutex
--
-string
--
-
 /home/workspace/Concurrent-Traffic-Simulation/src/TrafficLight.h
 mutex
 -

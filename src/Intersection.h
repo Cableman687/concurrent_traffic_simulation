@@ -47,7 +47,7 @@ public:
     bool trafficLightIsGreen();
 
 private:
-    //6.a
+    //FP.6a
     TrafficLight _trafficLight;
     
     // typical behaviour methods
